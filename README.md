@@ -3,6 +3,8 @@
 
 Бот самостоятельно управляет игрой Asphalt Legends
 
+Запускаем файл main.py
+
 Как запускать и настраивать смотрите на Ютубе
 https://youtube.com/playlist?list=PLNW6eUpTV-FJiyEReW_qSdc0X8TURMIDE
 
