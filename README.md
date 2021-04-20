@@ -6,5 +6,7 @@
 https://youtube.com/playlist?list=PLNW6eUpTV-FJiyEReW_qSdc0X8TURMIDE
 
 
-При поддержке возможно усовершенствование бота, добавим новые функции и т.д.
+Прошу Вас оказать материальную помощь развитию проекта и канала.
+Это значительно ускорит совершенствование бота, а также выход новых видео.
+https://www.donationalerts.com/r/autopilotyoutube
 
