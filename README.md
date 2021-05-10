@@ -27,7 +27,7 @@
 Вам потребуется установить все необходимые библиотеки.
 
 Как запускать и настраивать смотрите на Ютубе
-https://youtube.com/playlist?list=PLNW6eUpTV-FJiyEReW_qSdc0X8TURMIDE
+https://youtube.com/playlist?list=PLNW6eUpTV-FJFFOUfvCktXR-tZORDbnEL
 
 > Могу оказать помощь в настройке бота с помощью дистанционного подключения к Вашему компьютеру/смартфону.
 >Пишите на почту q3q2q1q@yandex.ru
