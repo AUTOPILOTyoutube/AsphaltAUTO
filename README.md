@@ -42,10 +42,4 @@ https://youtu.be/4Gfj8ZI2-Ho
 ## ИНСТРУКЦИЯ ПО НАСТРОЙКЕ БОТА v.4.0
 https://github.com/AUTOPILOTyoutube/AsphaltAUTO/raw/master/MANUAL%20-%20%D0%98%D0%9D%D0%A1%D0%A2%D0%A0%D0%A3%D0%9A%D0%A6%D0%98%D0%AF/%D0%98%D0%9D%D0%A1%D0%A2%D0%A0%D0%A3%D0%9A%D0%A6%D0%98%D0%AF%20%D0%9F%D0%9E%20%D0%9D%D0%90%D0%A1%D0%A2%D0%A0%D0%9E%D0%99%D0%9A%D0%95%20%D0%91%D0%9E%D0%A2%D0%90%20v4.pdf
 
-## СТОИМОСТЬ БОТА v.4.1:
-500 рублей - для новых клиентов
-400 рублей - для старых клиентов, которые уже покупали предыдущие версии.
 По вопросам приобретения бота обращаться на почту q3q2q1q@yandex.ru
-
-
-## [Поддержать развитие проекта](https://www.donationalerts.com/r/autopilotyoutube)
